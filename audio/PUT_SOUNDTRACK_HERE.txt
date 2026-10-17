@@ -1,0 +1,1 @@
+Place a licensed MP3 named soundtrack.mp3 in this folder to enable the music button.
